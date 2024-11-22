@@ -2,6 +2,8 @@
 
 ## Currying
 
+本笔记来自：https://www.geeksforgeeks.org/what-is-currying-function-in-javascript/
+
 Currying is a functional programming technique where a function with multiple arguments is transformed into a series of functions, each taking a single argument.
 简单来说就是将一个函数的参数拆解，传递给不同的函数去处理，再将其函数结果返回
 
